@@ -207,6 +207,52 @@
         }
       ]
     },
+        {
+      "Id": "622526d7-e495-4452-8f68-c51ece96bd26",
+      "Name": "Intranet Success Site",
+      "Image": "images/img_IntranetSuccessSite.png",
+      "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": [
+        {
+          "Id": "d79a6a86-1388-437d-9b7b-bad28f39f862",
+          "Name": "Plan",
+          "Image": "images/categories/sharepoint-plan.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "d303f6c6-56bc-4584-8397-59f952b8ff2c",
+          "Name": "Build",
+          "Image": "images/categories/sharepoint-build.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "e174ec0a-fc37-4b75-8570-60e43bd3ca78",
+          "Name": "Launch",
+          "Image": "images/categories/sharepoint-launch.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "cd3d6cc0-af1e-4a0c-bcea-3f3af77f6732",
+          "Name": "Advanced",
+          "Image": "images/categories/sharepoint-advanced.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },        
+      ]
+    },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
