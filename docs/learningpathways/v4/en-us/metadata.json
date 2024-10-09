@@ -225,48 +225,30 @@
           "SubCategories": []
         },
         {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "Id": "d303f6c6-56bc-4584-8397-59f952b8ff2c",
+          "Name": "Build your site",
+          "Image": "images/categories/sharepoint-build.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         },
         {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "Id": "e174ec0a-fc37-4b75-8570-60e43bd3ca78",
+          "Name": "Launch your site",
+          "Image": "images/categories/sharepoint-launch.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         },
         {
-          "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
-          "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "Id": "cd3d6cc0-af1e-4a0c-bcea-3f3af77f6732",
+          "Name": "Advanced site creation",
+          "Image": "images/categories/sharepoint-advanced.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-          "Name": "Accessibility",
-          "Image": "images/categories/accessibility.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
-          "Name": "Collaboration",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         }
       ]
