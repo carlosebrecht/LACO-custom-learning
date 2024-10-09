@@ -180,7 +180,7 @@
   ],
   "Categories": [
     {
-      "Id": "ebecaf89-ac51-4b96-ba07-620d60091dc5",
+      "Id": "750f09aa-0aa0-4339-96fc-5cb57e772ea6",
       "Name": "Privacy",
       "Image": "",
       "TechnologyId": "",
@@ -188,14 +188,14 @@
       "Source": "Custom",
       "SubCategories": [
         {
-          "Id": "28669bdd-9f0e-41b4-9d33-6994df6ece59",
+          "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
           "SubCategories": []
-        },
+        }
       ]
     },
     {
