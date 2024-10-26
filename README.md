@@ -14,13 +14,9 @@ Stable Version: ![drop](https://img.shields.io/badge/drop-5.0-green.svg)
 
 ## Prerequisites & Installation
 
-For a list of prerequisites and installation instructions see [Overview of multilingual support for learning pathways](https://github.com/pnp/custom-learning-office-365/tree/main/installation)
+You should first install the Microsoft 365 Learning pathways solution. For a list of prerequisites and installation instructions for the Microsoft 365 Learning pathways, see [Overview of multilingual support for learning pathways](https://github.com/pnp/custom-learning-office-365/tree/main/installation)
 
->Note: if you are upgrading from V3 to V4 please review the [instructions](./installation/UpdateV3-V4.md) prior to doing the upgrade as these instructions will provide valuable instructions on enabling multilingual support.
-
-### Teams Installation
-
-If you would like to install the Microsoft 365 Learning Pathways in Microsoft Teams you can do so as both a Teams Personal App and as a Teams Tab. YOu can get instructions for [Teams Installation in the Installation ReadMe](./installation/README.md#teams-installation).  
+To create or updatea a custom training package for LACO, please refer to the corresponding documentation in the LACO Modern Intranet site. 
 
 ## Author(s)
 
