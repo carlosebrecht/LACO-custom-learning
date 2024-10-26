@@ -190,8 +190,8 @@
         {
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
+          "Image": "images/categories/img_gdpr-training.png",
+          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
           "SubjectId": "",
           "Source": "Custom",
           "SubCategories": []
