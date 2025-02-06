@@ -199,6 +199,25 @@
       ]
     },
     {
+      "Id": "7180dac6-2643-4805-a433-607604b26a19",
+      "Name": "AFAS",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": [
+        {
+          "Id": "e25188c1-049a-4725-b56c-66ff34294f7c",
+          "Name": "AFAS Manual",
+          "Image": "images/categories/img_afas.png",
+          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "622526d7-e495-4452-8f68-c51ece96bd26",
       "Name": "Intranet Success Site",
       "Image": "",
