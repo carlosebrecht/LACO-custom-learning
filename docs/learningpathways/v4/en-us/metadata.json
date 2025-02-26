@@ -181,84 +181,19 @@
   "Categories": [
     {
       "Id": "750f09aa-0aa0-4339-96fc-5cb57e772ea6",
-      "Name": "Privacy",
+      "Name": "Training Resources",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Custom",
+      "Source": "LACO",
       "SubCategories": [
         {
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
-          "Name": "EU GDPR",
+          "Name": "EU GDPR Training",
           "Image": "images/categories/img_gdpr-training.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+          "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "7180dac6-2643-4805-a433-607604b26a19",
-      "Name": "AFAS",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "e25188c1-049a-4725-b56c-66ff34294f7c",
-          "Name": "AFAS Manual",
-          "Image": "images/categories/img_afas.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "622526d7-e495-4452-8f68-c51ece96bd26",
-      "Name": "Intranet Success Site",
-      "Image": "",
-      "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "d79a6a86-1388-437d-9b7b-bad28f39f862",
-          "Name": "Plan your site",
-          "Image": "images/categories/sharepoint-plan.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "d303f6c6-56bc-4584-8397-59f952b8ff2c",
-          "Name": "Build your site",
-          "Image": "images/categories/sharepoint-build.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "e174ec0a-fc37-4b75-8570-60e43bd3ca78",
-          "Name": "Launch your site",
-          "Image": "images/categories/sharepoint-launch.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "cd3d6cc0-af1e-4a0c-bcea-3f3af77f6732",
-          "Name": "Advanced site creation",
-          "Image": "images/categories/sharepoint-advanced.png",
-          "TechnologyId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "SubjectId": "",
-          "Source": "Custom",
+          "Source": "LACO",
           "SubCategories": []
         }
       ]
@@ -507,12 +442,24 @@
       "Name": "All"
     },
     {
+      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
+      "Name": "Content Author"
+    },
+    {
+      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
+      "Name": "Content Manager"
+    },
+    {
+      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
+      "Name": "Site Owner"
+    },
+    {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
       "Name": "Champions/Trainer"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "HelpDesk"
+      "Name": "Support Agent"
     },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -537,18 +484,6 @@
     {
       "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
       "Name": "Executive Assistant"
-    },
-    {
-      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
-      "Name": "Content Editor"
-    },
-    {
-      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
-    },
-    {
-      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Content Manager"
     }
   ],
   "Sources": [
@@ -556,7 +491,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "LACO"
   ],
   "Levels": [
     {
