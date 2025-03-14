@@ -198,9 +198,9 @@
         },
          {
           "Id": "0982a215-4f8c-4296-8844-0aa1751cf57e",
-          "Name": "Category",
-          "Image": "",
-          "TechnologyId": "",
+          "Name": "SharePoint Intranet Training",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
           "Source": "LACO",
           "SubCategories": []
