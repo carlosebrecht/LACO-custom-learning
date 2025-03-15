@@ -191,15 +191,43 @@
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR Training",
           "Image": "images/categories/img_gdpr-training.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "153efb5f-11da-4336-a9b7-30880f1e8b6a",
+          "Name": "AFAS Manual",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "0982a215-4f8c-4296-8844-0aa1751cf57e",
+      "Name": "SharePoint Intranet Training",
+      "Image": "images/categories/img_sharepoint.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "LACO",
+      "SubCategories": [
+        {
+          "Id": "c4241bf8-08a9-41bb-8e25-463964e6c68f",
+          "Name": "Plan",
+          "Image": "images/categories/img_plan-site.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "LACO",
           "SubCategories": []
         },
          {
-          "Id": "0982a215-4f8c-4296-8844-0aa1751cf57e",
-          "Name": "SharePoint Intranet Training",
-          "Image": "images/categories/sharepoint.png",
+          "Id": "865f9f72-3b8e-4983-85a5-8a2e64826713",
+          "Name": "Build",
+          "Image": "images/categories/img_build-site.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
           "Source": "LACO",
