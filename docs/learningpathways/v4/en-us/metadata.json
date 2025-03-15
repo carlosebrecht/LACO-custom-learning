@@ -219,8 +219,8 @@
           "Id": "c4241bf8-08a9-41bb-8e25-463964e6c68f",
           "Name": "Plan",
           "Image": "images/categories/img_plan-site.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "c4241bf8-08a9-41bb-8e25-463964e6c68f",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -229,7 +229,7 @@
           "Name": "Build",
           "Image": "images/categories/img_build-site.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-          "SubjectId": "",
+          "SubjectId": "865f9f72-3b8e-4983-85a5-8a2e64826713",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -238,7 +238,7 @@
           "Name": "Launch",
           "Image": "images/categories/img_launch-site.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-          "SubjectId": "",
+          "SubjectId": "526cc2f3-beb2-47c0-91c9-536fdc6d2057",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -247,7 +247,7 @@
           "Name": "Advance",
           "Image": "images/categories/img_advance-site.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-          "SubjectId": "",
+          "SubjectId": "2dec2751-cf80-4e1c-bda9-5d98d75290b4",
           "Source": "LACO",
           "SubCategories": []
         }
