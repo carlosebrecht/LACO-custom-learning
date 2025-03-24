@@ -191,20 +191,18 @@
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR Training",
           "Image": "images/categories/img_gdpr-training.png",
-          "TechnologyId": "",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
-          "Source": "",
+          "Source": "LACO",
           "SubCategories": []
         },
          {
           "Id": "153efb5f-11da-4336-a9b7-30880f1e8b6a",
           "Name": "Modern Intranet Guidelines",
           "Image": "images/categories/sharepoint.png",
-          "TechnologyId": "",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
-          "Source": "",
+          "Source": "LACO",
           "SubCategories": []
         }
       ]
@@ -225,9 +223,7 @@
           "Image": "images/categories/img_plan-site.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "LevelId": "",
-          "AudiencesId": "",
-          "Source": "",
+          "Source": "LACO",
           "SubCategories": []
         },
          {
@@ -236,9 +232,7 @@
           "Image": "images/categories/img_build-site.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "LevelId": "",
-          "AudiencesId": "",
-          "Source": "",
+          "Source": "LACO",
           "SubCategories": []
         },
          {
@@ -247,8 +241,6 @@
           "Image": "images/categories/img_launch-site.png",
           "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -257,10 +249,7 @@
           "Name": "Advance",
           "Image": "images/categories/img_advance-site.png",
           "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
-          "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
           "SubjectId": "",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         }
