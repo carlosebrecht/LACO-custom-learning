@@ -81,8 +81,8 @@
       "Subjects": []
     },
     {
-      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-      "Name": "SharePoint",
+      "Id": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+      "Name": "SharePoint Sites",
       "Subjects": [
         {
           "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
@@ -183,7 +183,7 @@
       "Id": "750f09aa-0aa0-4339-96fc-5cb57e772ea6",
       "Name": "Training Resources",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
       "SubjectId": "",
       "Source": "LACO",
       "SubCategories": [
@@ -191,7 +191,7 @@
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR Training",
           "Image": "images/categories/img_gdpr-training.png",
-          "TechnologyId": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
           "SubjectId": "",
           "Source": "LACO",
@@ -201,7 +201,7 @@
           "Id": "153efb5f-11da-4336-a9b7-30880f1e8b6a",
           "Name": "Modern Intranet Guidelines",
           "Image": "images/categories/sharepoint.png",
-          "TechnologyId": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
           "SubjectId": "",
           "Source": "LACO",
@@ -213,17 +213,20 @@
       "Id": "0982a215-4f8c-4296-8844-0aa1751cf57e",
       "Name": "SharePoint Intranet Training",
       "Image": "images/categories/img_sharepoint.png",
-      "TechnologyId": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
+      "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
       "SubjectId": "",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
       "Source": "LACO",
       "SubCategories": [
         {
           "Id": "c4241bf8-08a9-41bb-8e25-463964e6c68f",
           "Name": "Plan",
           "Image": "images/categories/img_plan-site.png",
-          "TechnologyId": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
+          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -231,9 +234,10 @@
           "Id": "865f9f72-3b8e-4983-85a5-8a2e64826713",
           "Name": "Build",
           "Image": "images/categories/img_build-site.png",
-          "TechnologyId": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
+          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -241,9 +245,10 @@
           "Id": "526cc2f3-beb2-47c0-91c9-536fdc6d2057",
           "Name": "Launch",
           "Image": "images/categories/img_launch-site.png",
-          "TechnologyId": "41128013-96b4-442f-b44f-a30b232a2782",
-          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "SubjectId": "",
+          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         },
@@ -251,9 +256,11 @@
           "Id": "2dec2751-cf80-4e1c-bda9-5d98d75290b4",
           "Name": "Advance",
           "Image": "images/categories/img_advance-site.png",
-          "TechnologyId": "839db42f-02e6-4d57-93c2-b061f8075c95",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
           "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
           "SubjectId": "",
+          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
           "Source": "LACO",
           "SubCategories": []
         }
@@ -263,27 +270,27 @@
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All/Visitors"
+      "Name": "All-Visitors"
     },
     {
-      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
-      "Name": "Contributors/Authors/Owners"
+      "Id": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
+      "Name": "Contributors-Authors-Owners"
     },
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Champions/Trainers"
+      "Name": "Champions-Trainers"
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Owners/Managers"
+      "Name": "Owners-Managers"
     },
     {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Agents/Assistants"
+      "Name": "Agents-Assistants"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "Administrators/Admins"
+      "Name": "Administrators-Admins"
     }
   ],
   "Sources": [
