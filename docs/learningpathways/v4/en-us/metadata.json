@@ -188,6 +188,15 @@
       "Source": "LACO",
       "SubCategories": [
         {
+          "Id": "c13fe9fb-5fde-4f30-bdc4-6f24fb85cefc",
+          "Name": "AFAS Manual",
+          "Image": "images/categories/img_afas-manual.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+        {
           "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
           "Name": "EU GDPR Training",
           "Image": "images/categories/img_gdpr-training.png",
