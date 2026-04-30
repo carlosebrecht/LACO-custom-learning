@@ -213,6 +213,15 @@
           "SubjectId": "",
           "Source": "LACO",
           "SubCategories": []
+        },
+         {
+          "Id": "0fe3d3aa-2955-41b8-a7b5-c83f948ad677",
+          "Name": "Privileged Identity Management",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
         }
       ]
     },
