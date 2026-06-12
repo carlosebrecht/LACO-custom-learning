@@ -185,14 +185,14 @@
       "Image": "",
       "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
       "SubjectId": "",
-      "Source": "LACO",
+      "Source": "Custom",
       "SubCategories": []
     }
   ],
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All visitors/End Users/General"
+      "Name": "End Users/General"
     },
     {
       "Id": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
@@ -221,7 +221,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "LACO",
+    "Custom",
     "Other"
   ],
   "Levels": [
