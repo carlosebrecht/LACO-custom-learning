@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b48bd9a-a6f9-4d8b-ada5-80513b0b7e8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/playlists.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learningpathways/v4/en-us/playlists.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/learningpathways/v4/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learningpathways/v4/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
     <setting file="file://$PROJECT_DIR$/docs/learningpathways/v4/en-us/metadata.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
