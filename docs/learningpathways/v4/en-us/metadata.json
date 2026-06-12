@@ -186,33 +186,118 @@
       "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
       "SubjectId": "",
       "Source": "LACO",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "c13fe9fb-5fde-4f30-bdc4-6f24fb85cefc",
+          "Name": "AFAS Manual",
+          "Image": "images/categories/img_afas-manual.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+        {
+          "Id": "ca5d6563-e0df-4cfd-ab9f-3a806df8d2df",
+          "Name": "EU GDPR Training",
+          "Image": "images/categories/img_gdpr-training.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "153efb5f-11da-4336-a9b7-30880f1e8b6a",
+          "Name": "Modern Intranet Guidelines",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "0fe3d3aa-2955-41b8-a7b5-c83f948ad677",
+          "Name": "Privileged Identity Management",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "0982a215-4f8c-4296-8844-0aa1751cf57e",
+      "Name": "SharePoint Intranet Training",
+      "Image": "images/categories/img_sharepoint.png",
+      "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+      "SubjectId": "",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudiencesId": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
+      "Source": "LACO",
+      "SubCategories": [
+        {
+          "Id": "c4241bf8-08a9-41bb-8e25-463964e6c68f",
+          "Name": "Plan",
+          "Image": "images/categories/img_plan-site.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "865f9f72-3b8e-4983-85a5-8a2e64826713",
+          "Name": "Build",
+          "Image": "images/categories/img_build-site.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "526cc2f3-beb2-47c0-91c9-536fdc6d2057",
+          "Name": "Launch",
+          "Image": "images/categories/img_launch-site.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        },
+         {
+          "Id": "2dec2751-cf80-4e1c-bda9-5d98d75290b4",
+          "Name": "Advanced",
+          "Image": "images/categories/img_advance-site.png",
+          "TechnologyId": "0c145393-d05f-49b2-a966-8c4f7a9e4583",
+          "SubjectId": "",
+          "Source": "LACO",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All visitors/End Users/General"
+      "Name": "All-Visitors"
     },
     {
       "Id": "7d213ad1-8b9f-4abd-ab8c-2b2ba888abb3",
-      "Name": "Consultants/Analysts/Associates"
+      "Name": "Contributors-Authors-Owners"
     },
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Authors/Contributors/Owners"
+      "Name": "Champions-Trainers"
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Leaders/Managers/Specialists"
+      "Name": "Owners-Managers"
     },
     {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Principals/Directors/Partners"
+      "Name": "Agents-Assistants"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "Administrators/Experts/Owners"
+      "Name": "Administrators-Admins"
     }
   ],
   "Sources": [
@@ -221,8 +306,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "LACO",
-    "Other"
+    "LACO"
   ],
   "Levels": [
     {
