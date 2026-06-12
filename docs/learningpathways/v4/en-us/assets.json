@@ -1,3 +1,13 @@
 [
-
+  {
+    "Id": "b7f52310-54dd-4701-be3c-c0acbb8d998b",
+    "Title": "Asset_n",
+    "Description": "This is the asset description",
+    "Url": "https://lacois.sharepoint.com/sites/SharePointSuccessSite/SitePages/Intranet-Guidelines.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "LACO",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
 ]
